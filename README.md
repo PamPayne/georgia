@@ -4,7 +4,9 @@ Markdown versions of regulatory documents for Georgia, sourced from the DBNSA Re
 
 ## Documents
 
-*Document index will be updated once files are processed.*
+| Document | Source File |
+|---|---|
+| [VERY HIGH LEVEL GLANCE GEORGIA](VERY_HIGH_LEVEL_GLANCE_-_GEORGIA.md) | VERY HIGH LEVEL GLANCE - GEORGIA.pdf |
 
 ## Source
 
